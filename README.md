@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abdelghaniyacine
+- 👀 I’m interested in mobile app development
+- 🌱 I’m currently learning Dart & Flutter
+- 💞️ I’m looking to collaborate on full-stack app development
+- 📫 How to reach me: decodev.contact@gmail.com
