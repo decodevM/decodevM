@@ -12,4 +12,5 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCW5cUU7YYs1EFIIzcImqBPA
-          show_duration: false
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
