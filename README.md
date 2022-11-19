@@ -11,8 +11,6 @@ We are full-stack mobile developers and Ui/Ux designers. All coding projects are
 
 
 <p align="left">
-<a href="#" onclick='window.open("https://www.tiktok.com/@decodev.m");return false;'><img align="center" src="https://img.icons8.com/ios-filled/512/tiktok.png" alt="decodev.m" height="35" width="33"/></a>  
-
 <a href="https://www.tiktok.com/@decodev.m" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/512/tiktok.png" alt="decodev.m" height="35" width="33"/></a>
 <a href="https://instagram.com/decodev.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="decodev.m" height="30" width="40"/></a>
 <a href="https://www.youtube.com/channel/UCW5cUU7YYs1EFIIzcImqBPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Deco Dev" height="30" width="40"/></a></p>
