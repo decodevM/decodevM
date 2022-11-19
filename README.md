@@ -8,7 +8,9 @@ Hi 👋 It's DecoDev
 We are full-stack mobile developers and Ui/Ux designers. All coding projects are created from scratch, from planning and design to solving real problems using code. All video content is created in the same way, with an artistic touch from the idea and planning to the completion of the content. We publish this on our YouTube channel, "Deco Dev".
 
 <h3 align="left">Connect with us:</h3>
+
 <p align="left">
+<a href="https://www.tiktok.com/@decodev.m" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/512/tiktok.png" alt="decodev.m" height="30" width="40" /></a>
 <a href="https://instagram.com/decodev.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="decodev.m" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCW5cUU7YYs1EFIIzcImqBPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Deco Dev" height="30" width="40" /></a></p>
 
